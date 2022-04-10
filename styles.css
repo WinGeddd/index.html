@@ -1,12 +1,14 @@
 @charset "utf-8";
 
 body{
+	font-family: "Times New Roman";
 	text-align: center;
-	background: url(forest.jpg) no-repeat;
+	color: white;
+	background: url(forest.jpg) repeat;
 	-moz-background-size: 100%;
 	-webkit-background-size: 100%;
 	-o-background-size: 100%;
-	background-size: cover;
+	background-size: 100%;
 }
 a{
 	text-decoration: none;
