@@ -4,7 +4,7 @@ body{
 	font-family: "Times New Roman";
 	text-align: center;
 	color: white;
-	background: url(forest.jpg) repeat;
+	background: url("forest.jpg") repeat;
 	-moz-background-size: 100%;
 	-webkit-background-size: 100%;
 	-o-background-size: 100%;
